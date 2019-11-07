@@ -1,0 +1,4 @@
+name: Node Generator
+type: module
+core: '8.x'
+description: my first drupal practice module
